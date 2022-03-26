@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Все посты найденные по запросу {{ s }}</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+    <main>
+
+        <a href="{{ url_for('main.main_page') }}" class="link">Назад</a>
+        {% if len_s > 0 %}
+        <h1>Посты по запросу: "{{ s }}"</h1>
+        {% else %}
+        <h1></h1>
+        {% endif %}
+
+        {% if items_len > 0 %}
+        {% for item in items %}
+        <div class="post">
+            <img src={{ item.pic }} width="100%" alt="">
+            <p>{{ item.content }}</p>
+        </div>
+        {%  endfor %}
+        {% else %}
+        <div class="post">
+            <p>{{ n }}</p>
+        </div>
+        {% endif %}
+
+
+        <hr>
+
+        <a href="{{ url_for('loader.page_post_form') }}" class="button">Добавить пост</a>
+
+    </main>
+</body>
+
+</html>

@@ -1,0 +1,1 @@
+PATH = "posts.json"
