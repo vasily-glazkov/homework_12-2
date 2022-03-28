@@ -32,19 +32,19 @@
         "content": "Утром отправились на катере обследовать ближайшие острова – острова в основном каменные, бесполезные и необитаемые. На обратном пути попали в бурю, и нас чуть не унесло в океан. В течение 10 минут наш катер несся к отмели, а потом мы стали дрейфовать между скал, держась за трос. Наконец погода наладилась и мы смогли совершить обратный путь. Когда уже прибыли домой, я попросил, чтобы на следующий день нам устроили на катере экскурсию по морю. Нас провели по морскому дну от одного острова к другому, показали различные интересные объекты, которые встречаются в этом районе."
     },
     {
-        "pic": "/static/images/cat.png",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aenean sed adipiscing diam donec adipiscing tristique. Neque egestas congue quisque egestas diam in arcu cursus euismod. Ut etiam sit amet nisl purus in mollis. Condimentum lacinia quis vel eros donec ac odio tempor orci. Eget nulla facilisi etiam dignissim. Tristique senectus et netus et malesuada fames ac. Sed felis eget velit aliquet sagittis id. Cras adipiscing enim eu turpis egestas pretium. Pellentesque habitant morbi tristique senectus et netus et.\r\n\r\nVestibulum morbi blandit cursus risus at ultrices mi. Et malesuada fames ac turpis egestas sed tempus urna et. Felis eget velit aliquet sagittis id. Id cursus metus aliquam eleifend mi. Molestie a iaculis at erat pellentesque. Sit amet massa vitae tortor condimentum lacinia quis. Dignissim enim sit amet venenatis. At lectus urna duis convallis convallis tellus id interdum velit. Pretium aenean pharetra magna ac placerat vestibulum. Tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula. In hac habitasse platea dictumst. Ac felis donec et odio pellentesque. Euismod lacinia at quis risus sed vulputate odio ut. Non pulvinar neque laoreet suspendisse interdum consectetur libero id. Cursus vitae congue mauris rhoncus aenean vel. Quisque non tellus orci ac auctor."
+        "pic": "/uploads/images/cat.png",
+        "content": "Кот в шапке-ушанке"
     },
     {
-        "pic": "/static/images/photo_2022-02-25_22-32-35.jpg",
-        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Augue mauris augue neque gravida. Sapien et ligula ullamcorper malesuada proin. Consequat semper viverra nam libero justo laoreet sit amet. Enim sit amet venenatis urna cursus. Mi in nulla posuere sollicitudin. Suspendisse sed nisi lacus sed viverra tellus in hac habitasse. In est ante in nibh. Bibendum enim facilisis gravida neque convallis a cras. Ac tortor vitae purus faucibus ornare suspendisse. Scelerisque in dictum non consectetur. Rhoncus aenean vel elit scelerisque mauris pellentesque. Fames ac turpis egestas maecenas pharetra convallis posuere. Sed vulputate odio ut enim blandit volutpat maecenas volutpat blandit. Nunc sed blandit libero volutpat sed cras ornare arcu. Elit sed vulputate mi sit amet mauris. Tincidunt dui ut ornare lectus sit amet est placerat."
+        "pic": "/uploads/images/cat2.png",
+        "content": "Кот в пилотке\r\n"
     },
     {
-        "pic": "/static/images/cat2.png",
-        "content": "кот в пилотке"
+        "pic": "/uploads/images/2022-03-22_18_47_18-Вася_Ложкин_и_его_котики_and_6_more_pages_-_Personal_-_Microsoft​_Edge.png",
+        "content": "коты в иллюминаторе\r\n"
     },
     {
-        "pic": "/static/images/2022-03-22_18_47_18-Вася_Ложкин_и_его_котики_and_6_more_pages_-_Personal_-_Microsoft​_Edge.png",
-        "content": "Коты в иллюминаторе"
+        "pic": "/uploads/images/1psaLP6Ye6I.jpg",
+        "content": "Застолье"
     }
 ]

@@ -5,6 +5,7 @@ data = []
 
 
 def load_data(path):
+    """Загружает данные из json файла"""
     global data
     with open(path, encoding="utf-8") as file:
         data = json.load(file)
@@ -12,6 +13,7 @@ def load_data(path):
 
 
 def search_content(search_key):
+    """Совершает поиск по ключевым словам и вовращает посты содержащие эти слова"""
     results = []
     for item in data:
         if search_key.lower() in item['content'].lower() or search_key in item['content']:
